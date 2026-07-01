@@ -55,3 +55,8 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+*.vsidx
+/.vs
+/ExpenseTrackerLesson1/.vs/ExpenseTrackerLesson1/CopilotIndices/18.0.955.22606
+/ExpenseTrackerLesson1/.vs/ExpenseTrackerLesson1.slnx/v18
+/ExpenseTrackerLesson1/.vs/ExpenseTrackerLesson1.slnx/DesignTimeBuild
